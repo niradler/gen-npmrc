@@ -1,0 +1,17 @@
+{
+  "name": "gen-npmrc",
+  "version": "0.0.7",
+  "description": "create npmrc file from env variable.",
+  "main": "index.js",
+  "bin": {
+    "gen-npmrc": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npmrc"
+  ],
+  "author": "Nir Adler",
+  "license": "MIT"
+}
